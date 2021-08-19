@@ -6,6 +6,5 @@
 
     input: 输入
 
-    output: 输出
-
+    output: 输出</br>
     function: 功能介绍
